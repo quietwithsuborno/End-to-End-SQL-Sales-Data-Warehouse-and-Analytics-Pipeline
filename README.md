@@ -1,4 +1,4 @@
-# End-to-End SQL Sales Data Warehouse and Analytics Pipeline
+# End-to-End Sales Data Warehouse and Analytics Pipeline
 
 In this project, I transformed messy raw data from CRM and ERP sources into analytics-ready datasets using SQL and the Medallion Architecture. By building this end-to-end pipeline, I extracted meaningful business insights to support strategic decision-making, demonstrating a step-by-step methodology for converting raw, fragmented data into actionable business intelligence.
 
