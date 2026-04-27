@@ -87,7 +87,7 @@ Below is the Entity Relationship Diagram (ERD) representing the data warehouse s
   <img src="docs/data_model.png" alt="Data Model Diagram" width="800">
 </p>
 
-### Data Mart Structure:
+### Data Model Structure:
 * **Fact Table (`gold.fact_sales`):** Stores business metrics like `sales_amount`, `quantity`, and `price`, linked via foreign keys to dimensions.
 * **Dimension Tables:**
     * **`gold.dim_customers`:** A unified master record for customers, including demographics like country, marital status, and gender.
