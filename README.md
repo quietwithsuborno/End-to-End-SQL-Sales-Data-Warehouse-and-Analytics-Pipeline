@@ -294,3 +294,12 @@ The product catalog consists of **295 unique SKUs**, showing a heavy focus on hi
 * **Supply Chain Priority:** Overall, the business relies heavily on a few **“star” products**, making supply chain stability for these specific items absolutely critical.
 
 ---
+
+## 📌 Conclusion
+This project demonstrates how raw data from a data warehouse can be transformed into meaningful business insights using the combined power of **SQL and Excel**. It highlights key patterns in sales, customer behavior, and product performance to support effective, data-driven decision-making.
+
+---
+
+## 📬 Contact
+* **Author:** Maksuda Akter
+* **E-mail:** suborno200139@gmail.com
