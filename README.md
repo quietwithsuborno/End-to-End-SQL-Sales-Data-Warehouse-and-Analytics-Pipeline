@@ -26,10 +26,10 @@ In this project, I transformed messy raw data from CRM and ERP sources into anal
 ## 🛠️ Tech Stack & Tools
 
 * **Database & Warehousing:** SQL Server (T-SQL) 
-* **Data Transformation:** SQL (Views, Joins, Aggregations) 
+* **Data Transformation:** SQL (Views, Joins, Aggregations, CTE, Window Functions) 
 * **Business Intelligence & Reporting:** Microsoft Excel 
 * **Version Control:** Git & GitHub
-* **Core Concepts:** Data Warehousing (Medallion Architecture), Exploratory Data Analysis (EDA), KPI Development.
+* **Core Concepts:** Data Warehousing (Medallion Architecture), Exploratory Data Analysis (EDA), KPI Development, ETL (Extract, Transform, Load).
 
 ---
 
